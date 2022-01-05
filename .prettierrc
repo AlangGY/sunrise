@@ -8,7 +8,7 @@
   "quoteProps": "as-needed",
   "trailingComma": "none",
   "bracketSpacing": true,
-  "arrowParens": "always",
+  "arrowParens": "avoid",
   "proseWrap": "preserve",
   "endOfLine": "auto",
   "htmlWhitespaceSensitivity": "css"
